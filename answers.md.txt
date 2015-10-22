@@ -1,0 +1,2 @@
+1. Git is a version control. It is basically google docs for your code.
+2. It is a hub for your repositories, where you store your stuff.
